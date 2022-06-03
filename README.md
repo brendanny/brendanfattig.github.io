@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Brendan Fattig and welcome to my website. I am a university student insterested in basically anything:
+My name is Brendan and welcome to my website. I am a university student insterested in basically anything:
   - Cryptography
   - Networks
   - Biology
